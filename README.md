@@ -1,2 +1,2 @@
 # The-Real-Estate-Project
-This data analytics project utilized SQL and Tableau to analyze and model real estate prices in Georgia. 
+This data analytics project utilized SQL and Tableau to analyze and model real estate prices in Georgia. The data was cleaned and transformed in SQL, and visualizations were created in Tableau to identify key trends and patterns. A linear regression model was developed to predict property prices based on given features, and the model was validated using statistical metrics. The results were presented in an interactive dashboard, enabling users to explore the data and make informed decisions related to real estate investments in Georgia.
