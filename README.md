@@ -3,4 +3,4 @@ This data analytics project utilized SQL and Tableau to analyze and model real e
 
 Thanks to the orginal authors of this dataset, which was co-produced by Guenter Roehrich and Jordan, who produced a dataset of real estate listings for Georgia  for the first 6 months of 2021.
 
-For visualizations related to this project, visit tableau public and search for "Craig Schlachter".
+For visualizations related to this project, click the tableau link in my bio or visit tableau public and search for "Craig Schlachter".
